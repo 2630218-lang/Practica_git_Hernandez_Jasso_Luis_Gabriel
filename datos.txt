@@ -2,4 +2,7 @@ Repositorio local ------------- GitHub
 
 GitHub -------- Repositorio local
 
-Este archivo fue modificado en la pagina de github
+Este archivo fue modificado en la pagina de GitHub
+
+
+Este archivo fue modificado desde el repositorio local.
